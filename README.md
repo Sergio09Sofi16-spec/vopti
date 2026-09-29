@@ -1,5 +1,9 @@
-# Hi
-Hi everyone
-I'm a beginner systems programmer.
-My stack:
-Windows
+# Конспекты по предмету
+
+Это мой репозиторий для практических задаинй по предмету Операционные системы и среды
+
+Навигация
+- [Основы редактирования текста](/Text.md)
+- [Markdown](/Markdown.md)
+- [Mermaid](/mermaind.md)
+- [](/)
