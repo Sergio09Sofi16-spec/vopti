@@ -9,3 +9,4 @@
 - [BASH_CLI](/BASH_CLI.md)
 - [BashScript](/BashScript.md)
 - [Работа с git](/git.md)
+- 12.10.2026
