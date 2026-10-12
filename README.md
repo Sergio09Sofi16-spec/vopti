@@ -8,3 +8,4 @@
 - [Mermaid](/mermaind.md)
 - [BASH_CLI](/BASH_CLI.md)
 - [BashScript](/BashScript.md)
+- [Работа с git](/git.md)
