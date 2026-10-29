@@ -14,3 +14,6 @@
 
 ## Cosiness(team_project)
 - [Cosiness](https://github.com/alexrezchikov/Cosiness)
+
+- ## мой сайт
+- [sopti](https://sergio09sofi16-spec.github.io/sopti/)
