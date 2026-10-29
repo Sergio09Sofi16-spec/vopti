@@ -1,12 +1,16 @@
 # Конспекты по предмету
-
 Это мой репозиторий для практических задаинй по предмету Операционные системы и среды
 
-Навигация
+# Навигация
 - [Основы редактирования текста](/Text.md)
 - [Markdown](/Markdown.md)
 - [Mermaid](/mermaind.md)
 - [BASH_CLI](/BASH_CLI.md)
 - [BashScript](/BashScript.md)
 - [Работа с git](/git.md)
-- 12.10.2026
+
+## Teacher
+- [Repository_teacher's](https://gitflic.ru/project/rurewa/mfua)
+
+## Cosiness(team_project)
+- [Cosiness](https://github.com/alexrezchikov/Cosiness)
