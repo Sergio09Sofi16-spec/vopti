@@ -17,5 +17,5 @@
 
 
 - ## мой сайт
-- [sopti](https://sergio09sofi16-spec.github.io/sopti/)
+- [sopti](https://github.com/Sergio09Sofi16-spec/sopti)
 
