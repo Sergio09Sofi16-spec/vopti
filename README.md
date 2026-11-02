@@ -18,4 +18,4 @@
 
 - ## мой сайт
 - [sopti](https://sergio09sofi16-spec.github.io/sopti/)
->>>>>>> 8027a4bd0a36ed949e554e15b0bee374b90620f6
+
