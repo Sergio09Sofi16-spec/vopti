@@ -4,7 +4,7 @@
 # Навигация
 - [Основы редактирования текста](/Text.md)
 - [Markdown](/Markdown.md)
-- [Mermaid](/mermaind.md)
+- [Mermaid](/Mermain.md)
 - [BASH_CLI](/BASH_CLI.md)
 - [BashScript](/BashScript.md)
 - [Работа с git](/git.md)
