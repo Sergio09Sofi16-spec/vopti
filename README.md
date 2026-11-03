@@ -8,7 +8,7 @@
 - [BASH_CLI](/BASH_CLI.md)
 - [BashScript](/BashScript.md)
 - [Работа с git](/git.md)
--[docker](/docker.md)
+- [docker](/docker.md)
 
 ## Teacher
 - [Repository_teacher's](https://gitflic.ru/project/rurewa/mfua)
