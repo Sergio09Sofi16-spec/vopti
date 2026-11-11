@@ -8,7 +8,7 @@
 - [BASH_CLI](/BASH_CLI.md)
 - [BashScript](/BashScript.md)
 - [Работа с git](/git.md)
-- [Docker](/docker.md)
+- [Docker](/Docker.md)
 - [Apache](/Docker/Apache/README.md)
 
 ## Teacher
