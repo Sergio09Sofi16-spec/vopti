@@ -10,6 +10,7 @@
 - [Работа с git](/git.md)
 - [Docker](/Docker/DockerReminder.md)
 - [Apache](/Docker/Apache/README.md)
+- [Ollama](/mfuawork/README.md)
 
 ## Teacher
 - [Repository_teacher's](https://gitflic.ru/project/rurewa/mfua)
