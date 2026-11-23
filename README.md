@@ -9,8 +9,7 @@
 - [BashScript](/BashScript.md)
 - [Работа с git](/git.md)
 - [Docker](/Docker/DockerReminder.md)
-- [Apache](/Docker/Apache/README.md)
-- [Ollama](/Docker/Ollama/Readme.md)
+- [Docker labs](/Docker/Readme.md)
 
 ## Teacher
 - [Repository_teacher's](https://gitflic.ru/project/rurewa/mfua)
