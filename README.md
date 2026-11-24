@@ -21,3 +21,4 @@
 - ## мой сайт
 - [sopti](https://github.com/Sergio09Sofi16-spec/sopti)
 
+-[Верстаем](file:///C:/Users/User/Desktop/my-first-site/index.html)
